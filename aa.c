@@ -5,5 +5,6 @@ int main() {
 	int a = 3;
 	int b = 5;
 	printf("a는 %d", a);
+	printf("b는 %d", b);
 
 }
